@@ -1,0 +1,89 @@
+body{
+    margin: 0 auto;
+    background: url("https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95c3a34f9.png") no-repeat center/cover  ;
+    font-family: Arial, sans-serif;
+    color: #340924;
+}
+ul,li,p{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 0;
+}
+.logo{
+    margin: 10px 0 0 0;
+    display: inline-block;
+    width: 400px;
+}
+.logo img{
+    width: 100%;
+    border-radius: 10%;
+}
+.nav li{
+    display: block;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 25px;
+    margin-top: 10px;
+}
+.nav1{
+    display: flex;
+}
+.nav a{
+    text-decoration: none;
+    color: #7e1845;
+}
+.stage1{
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+}
+.stage1 p{
+    width: 400px;
+}
+.stage1 img{
+    width: 400px;
+}
+.stage2{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.stage2 p{
+    width: 400px;
+}
+.stage2 img{
+    width: 400px;
+}
+.stage3{
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.stage3 p {
+    width: 400px;
+}
+.stage3 img{
+    width: 400px;
+}
+.stage4{
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.stage4 p {
+    width: 400px;
+}
+.stage4 img{
+    width: 400px;
+}
+
